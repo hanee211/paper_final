@@ -1,0 +1,1 @@
+statu_4th_epoch_180 : status_GRU_128_epoch_86
